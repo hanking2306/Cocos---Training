@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "—Pngtree—hand-painted cute cute scarf white_4679978",
+    "texture": "599a0cb5-0958-48d2-af63-f0c427ab5bd3",
+    "atlas": "",
+    "rect": [
+      453,
+      137,
+      983,
+      1448
+    ],
+    "offset": [
+      -55.5,
+      139
+    ],
+    "originalSize": [
+      2000,
+      2000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
